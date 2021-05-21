@@ -56,7 +56,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621567786413</updated>
-      <workItem from="1621567788439" duration="2913000" />
+      <workItem from="1621567788439" duration="4113000" />
+      <workItem from="1621582314395" duration="76000" />
     </task>
     <servers />
   </component>
@@ -73,6 +74,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2299" y="374" key="#Notifications" timestamp="1621567971358">
